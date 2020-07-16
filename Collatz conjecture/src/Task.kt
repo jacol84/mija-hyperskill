@@ -11,3 +11,5 @@ fun main(args: Array<String>) {
     list.add(1)
     print(list.joinToString(" "))
 }
+// generateSequence
+// Sequence

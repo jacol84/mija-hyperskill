@@ -1,18 +1,19 @@
 type: code
 files:
-- name: src/Task.kt
-  visible: true
-  text: |-
-    import java.util.*
+  - name: src/Task.kt
+    visible: true
+    text: |-
+      import java.util.*
 
-    fun main(args: Array<String>) {
-        val scanner = Scanner(System.`in`)
-        // put your code here
-    }
-  learner_created: false
+      fun main(args: Array<String>) {
+          val scanner = Scanner(System.`in`)
+          // put your code here
+      }
+    learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4667
-status: Unchecked
+status: Solved
 feedback:
-  message: Failed to get check result from JetBrains Academy
-  time: Mon, 13 Jul 2020 18:58:28 UTC
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4667">JetBrains
+    Academy</a></html>
+  time: Sat, 11 Jul 2020 04:45:40 UTC
 record: -1
