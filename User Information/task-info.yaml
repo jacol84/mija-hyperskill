@@ -10,9 +10,5 @@ files:
     \ {\n    Server.send(customer.toString())\n}"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/10202
-status: Solved
-feedback:
-  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10202">JetBrains
-    Academy</a></html>
-  time: Sat, 08 Aug 2020 08:21:11 UTC
+status: Failed
 record: -1
