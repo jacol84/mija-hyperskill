@@ -155,3 +155,4 @@ content:
 - Comment some lines
 - The number of tens
 - Cause an exception
+- Handle string exception
