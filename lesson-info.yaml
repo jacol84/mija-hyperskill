@@ -156,3 +156,4 @@ content:
 - The number of tens
 - Cause an exception
 - Handle string exception
+- Handle arithmetic exception
