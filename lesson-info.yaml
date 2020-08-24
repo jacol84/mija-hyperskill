@@ -157,3 +157,4 @@ content:
 - Cause an exception
 - Handle string exception
 - Handle arithmetic exception
+- Handle number format exception
