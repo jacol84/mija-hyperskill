@@ -159,3 +159,4 @@ content:
 - Handle arithmetic exception
 - Handle number format exception
 - Line length
+- Check length
