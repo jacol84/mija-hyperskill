@@ -160,3 +160,4 @@ content:
 - Handle number format exception
 - Line length
 - Check length
+- Elvis throwing exceptions
