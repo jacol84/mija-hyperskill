@@ -163,3 +163,5 @@ content:
 - Elvis throwing exceptions
 - String length
 - Reverse me if you can
+- String or Int
+- Safe round
