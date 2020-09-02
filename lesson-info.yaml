@@ -166,3 +166,5 @@ content:
 - String or Int
 - Safe round
 - Pow
+- Fractional part
+- The angle between vectors
